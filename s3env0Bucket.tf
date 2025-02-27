@@ -14,7 +14,7 @@ variable "region" {
 
 variable "bucketname" {
   type    = string
-  default = "env0-acme-bucket"
+  default = "env0-acme-bucket2"
 }
 
 provider "aws" {
